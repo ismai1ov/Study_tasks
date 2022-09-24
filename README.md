@@ -1,1 +1,1 @@
-# Studt-tasks
+# Study-tasks
